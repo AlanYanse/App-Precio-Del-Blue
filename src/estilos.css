@@ -18,3 +18,13 @@
   font-size: 60px;
   text-align: center;
 }
+
+#banner {
+  width: 100%;
+  height: 200px;
+}
+
+#dollar{
+  width: 350px;
+  margin-left: 37%;
+}
